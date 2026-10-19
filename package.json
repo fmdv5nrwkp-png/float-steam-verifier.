@@ -1,0 +1,10 @@
+{
+  "name": "float-steam-verifier",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Narrow read-only Steam OpenID verification service for FLOAT CS2 inventory test",
+  "type": "module",
+  "engines": {"node": ">=20"},
+  "scripts": {"start": "node server.mjs", "test": "node --test"},
+  "license": "UNLICENSED"
+}
